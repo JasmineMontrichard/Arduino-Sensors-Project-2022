@@ -1,12 +1,5 @@
 /*
 SOG GAUGE
-
- Analog gauge v1.02
- - Shows half circle gauge with scale labels
- - Shows digital value, 00 - 100 aligned
- - Shows gauge label
- 21/12/2015 - Rudi Imbrechts
- http://arduinows.blogspot.com
 */
 
 #include <Adafruit_GPS.h>
@@ -21,13 +14,6 @@ U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NONE|U8G_I2C_OPT_DEV_0); // SW SPI Com: SC
 // Set GPSECHO to 'false' to turn off echoing the GPS data to the Serial console
 // Set to 'true' if you want to debug and listen to the raw GPS sentences. 
 #define GPSECHO false
-
-
-                                                // For OLED display with SH1106 driver. If you use another display,
-
-                                                // then please check the u8glib documentation and website at
-
-                                                // https://github.com/olikraus/u8glib
 
 
 
