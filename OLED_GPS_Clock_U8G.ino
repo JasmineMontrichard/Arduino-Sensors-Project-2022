@@ -11,11 +11,6 @@
 // Connections between the Nano and the OLED and GPS module:
 // - I2C OLED: A4-SDA, A5-SCL, 3.3Volt-Vcc
 // - GPS: 3.3Volt-Vcc, RX0-TX.  !!!>>  Disconnect during programming <<!!!
-//
-// Modifications:
-// - 26-02-2016   V.1.0   First release
-// - 01-11-2016   V.1.1   Time display in LOCAL modified in original Adafruit_GPS.cpp
-// - 17-04-2021   V.2.0   Added Timezone and 12/24 hour setup. Get it from clock_sevenseg_gps.ino
 
 
 #include <Adafruit_GPS.h>
