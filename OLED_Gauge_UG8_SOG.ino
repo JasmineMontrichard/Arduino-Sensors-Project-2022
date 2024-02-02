@@ -5,8 +5,7 @@ SOG GAUGE
  - Shows half circle gauge with scale labels
  - Shows digital value, 00 - 100 aligned
  - Shows gauge label
- 21/12/2015 - Rudi Imbrechts
- http://arduinows.blogspot.com
+ 
 */
 
 #include <Adafruit_GPS.h>
