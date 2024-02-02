@@ -13,5 +13,6 @@ In the end, I learned that there are other factors to look at; not just the soft
 
 ### Notes
 * The programs I created in whole are: [BoatProject_Option1](https://github.com/JasmineMontrichard/Arduino-Sensors-Project-2022/blob/main/BoatProject_Option1.ino) and [BoatProject_Option2](https://github.com/JasmineMontrichard/Arduino-Sensors-Project-2022/blob/main/BoatProject_Option2.ino)
+* No I don't know C++, but Java is *very* similar
 * My setup using the u8glib lib: `U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NONE|U8G_I2C_OPT_DEV_0);`
 * Library for sensor chip my dad used: `Adafruit_AHT10.h` 
