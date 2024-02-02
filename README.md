@@ -12,6 +12,6 @@ I did this project alongside my dad. I was responsible for the software part of 
 In the end, I learned that there are other factors to look at; not just the software side of it. I spent a few hours with my dad per day during my freshman year of high school in troubleshooting and making sure our version of each program worked. In addition, I also learned that documentation is important and I should've added it near the end of this project.
 
 ### Notes
-* The programs I created in whole are: [BoatProject_Option1]() and [BoatProject_Option2]()
+* The programs I created in whole are: [BoatProject_Option1](https://github.com/JasmineMontrichard/Arduino-Sensors-Project-2022/blob/main/BoatProject_Option1.ino) and [BoatProject_Option2](https://github.com/JasmineMontrichard/Arduino-Sensors-Project-2022/blob/main/BoatProject_Option2.ino)
 * My setup using the u8glib lib: `U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NONE|U8G_I2C_OPT_DEV_0);`
 * Library for sensor chip my dad used: `Adafruit_AHT10.h` 
