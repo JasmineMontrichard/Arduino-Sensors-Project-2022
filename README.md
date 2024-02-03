@@ -1,5 +1,6 @@
 # Arduino-Boat-Project
 ###### This project is discontinued.
+<img src="https://codehs.com/uploads/5a6ea6c4038ac9c6982b3083865fb4d4" alt="arduino irl" width="50%" height="50%"/>
 ### Background
 I did this project alongside my dad. I was responsible for the software part of it, while he was responsible for the hardware. This was one of my other personal projects after taking my first Java (Dual Credit) course, which was meant for displaying wind speed, ground speed, etc. while he would be on the lake.
 
