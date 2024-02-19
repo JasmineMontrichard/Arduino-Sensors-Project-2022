@@ -1,6 +1,5 @@
-# Arduino-Boat-Project
+# Arduino Sensors Project (2022)
 <div align="center">
-  <h6>This project is discontinued.</h6>
   <p>
     <img src="https://codehs.com/uploads/5a6ea6c4038ac9c6982b3083865fb4d4" alt="arduino irl" width="50%" height="50%"/>
   </p>
